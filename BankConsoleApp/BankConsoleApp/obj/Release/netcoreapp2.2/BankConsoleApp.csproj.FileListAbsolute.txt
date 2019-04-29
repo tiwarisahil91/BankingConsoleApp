@@ -1,0 +1,11 @@
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\bin\Release\netcoreapp2.2\BankConsoleApp.deps.json
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\bin\Release\netcoreapp2.2\BankConsoleApp.runtimeconfig.json
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\bin\Release\netcoreapp2.2\BankConsoleApp.runtimeconfig.dev.json
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\bin\Release\netcoreapp2.2\BankConsoleApp.dll
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\bin\Release\netcoreapp2.2\BankConsoleApp.pdb
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.csprojAssemblyReference.cache
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.AssemblyInfo.cs
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.dll
+C:\Users\tiwar\source\repos\BankConsoleApp\BankConsoleApp\obj\Release\netcoreapp2.2\BankConsoleApp.pdb

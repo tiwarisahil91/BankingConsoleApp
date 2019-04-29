@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "1c85323438c1be53940f84b675efbbc5895c379f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BankConsoleApp/1.0.0": {
+        "dependencies": {
+          "ManagedEsent": "1.9.4",
+          "Microsoft.Database.Collections.Generic": "1.9.4",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "BankConsoleApp.dll": {}
+        }
+      },
+      "ManagedEsent/1.9.4": {
+        "runtime": {
+          "lib/net40/Esent.Interop.dll": {
+            "assemblyVersion": "1.9.4.0",
+            "fileVersion": "1.9.4.0"
+          }
+        }
+      },
+      "Microsoft.Database.Collections.Generic/1.9.4": {
+        "dependencies": {
+          "ManagedEsent": "1.9.4",
+          "Microsoft.Database.Isam": "1.9.4"
+        },
+        "runtime": {
+          "lib/net40/Esent.Collections.dll": {
+            "assemblyVersion": "1.9.4.0",
+            "fileVersion": "1.9.4.0"
+          }
+        }
+      },
+      "Microsoft.Database.Isam/1.9.4": {
+        "dependencies": {
+          "ManagedEsent": "1.9.4"
+        },
+        "runtime": {
+          "lib/net40/Esent.Isam.dll": {
+            "assemblyVersion": "1.9.4.0",
+            "fileVersion": "1.9.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedEsent/1.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-coNOIYTi8Nty9yvelOHlmnq+EP3mRE3lwDTfOeodznEVmuzybr/VUQaeAspAHIGJXUm483StJhXenBZ/28UY9g==",
+      "path": "managedesent/1.9.4",
+      "hashPath": "managedesent.1.9.4.nupkg.sha512"
+    },
+    "Microsoft.Database.Collections.Generic/1.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NUGiuVbHTIvcoKBxhys9v+Xhthwcg2s949UYVKyvjgnwPTI7XEG5fveN83lBuurylsuZWvJkvaW2cXtOlZvgzw==",
+      "path": "microsoft.database.collections.generic/1.9.4",
+      "hashPath": "microsoft.database.collections.generic.1.9.4.nupkg.sha512"
+    },
+    "Microsoft.Database.Isam/1.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fZSVi8cm1j9IGEfXbiakKxjtKId2MWePziB2hCz4BpDtV3czxdfy8zBUSXKd4zbDYVZbwibsMNdkmGrICFs2Fg==",
+      "path": "microsoft.database.isam/1.9.4",
+      "hashPath": "microsoft.database.isam.1.9.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}
